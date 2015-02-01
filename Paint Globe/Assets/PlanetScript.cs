@@ -19,7 +19,7 @@ public class PlanetScript : MonoBehaviour {
 
 	}
 
-	int radius = 5;
+	int radius = 3;
 
 	public void PaintAtUV(Vector2 uv , Color color)
 	{
