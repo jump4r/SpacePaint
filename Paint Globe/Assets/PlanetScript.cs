@@ -9,6 +9,8 @@ public class PlanetScript : MonoBehaviour {
 		new Texture2D(400,
 		              400,
 		              TextureFormat.RGB24, false);
+
+		tex = ((Texture2D)renderer.material.mainTexture);
 	}
 
 	void PaintAtPoint(int x, int y, Color color)
@@ -21,10 +23,13 @@ public class PlanetScript : MonoBehaviour {
 
 	int radius = 3;
 
+	Texture2D tex;
+	bool edited = false;
+
 	public void PaintAtUV(Vector2 uv , Color color)
 	{
 
-		Texture2D tex = ((Texture2D)renderer.material.mainTexture);
+
 
 		int xCenter = (int)(uv.x * tex.width);
 		int yCenter = (int)(uv.y * tex.height);
@@ -40,8 +45,17 @@ public class PlanetScript : MonoBehaviour {
 			}
 		}
 
+		edited = true;
 		//tex.SetPixel((int)(uv.x * tex.width), (int)(uv.y * tex.height), Color.red);
-		tex.Apply();
+	}
+
+	public void LateUpdate () 
+	{
+		if(edited)
+		{
+			tex.Apply();
+		}
+		edited = false;
 	}
 
 	// Update is called once per frame
