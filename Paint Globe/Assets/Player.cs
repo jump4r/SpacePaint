@@ -20,7 +20,12 @@ public class Player : MonoBehaviour {
 	void Start () {
 	
 	}
-	
+
+	public KeyCode keyUp;
+	public KeyCode keyRight;
+	public KeyCode keyLeft; 
+	public KeyCode keyDown;
+
 	// Update is called once per frame
 	void Update () {
 
@@ -33,25 +38,25 @@ public class Player : MonoBehaviour {
 
 		Vector3 dir = new Vector3();
 
-		if(Input.GetKey(KeyCode.D))
+		if(Input.GetKey(keyRight))
 		{
 			dir += Camera.main.transform.right;
 			//transform.position += Camera.main.transform.right * speed;
 		}
 
-		if(Input.GetKey(KeyCode.A))
+		if(Input.GetKey(keyLeft))
 		{
 			dir -= Camera.main.transform.right;
 			//transform.position -= Camera.main.transform.right * speed;
 		}
 
-		if(Input.GetKey(KeyCode.W))
+		if(Input.GetKey(keyUp))
 		{
 			dir += Camera.main.transform.up;
 			//transform.position += Camera.main.transform.up * speed;
 		}
 
-		if(Input.GetKey(KeyCode.S))
+		if(Input.GetKey(keyDown))
 		{
 			dir -= Camera.main.transform.up;
 			//transform.position -= Camera.main.transform.up * speed;
@@ -74,7 +79,7 @@ public class Player : MonoBehaviour {
 
 		if(Physics.Raycast(new Ray(this.transform.position - gravityDir * 1f, planet.transform.position - this.transform.position), out hit))
 		{
-			transform.position = hit.point + transform.up * 1f * renderer.bounds.size.y;
+			transform.position = hit.point + transform.up * .7f * renderer.bounds.size.y;
 			planet.PaintAtUV(hit.textureCoord, color);
 		}
 
