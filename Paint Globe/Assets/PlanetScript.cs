@@ -40,7 +40,7 @@ public class PlanetScript : MonoBehaviour {
 
 	}
 
-	int radius = 3;
+	int radius = 8;
 
 	Texture2D tex;
 	bool edited = false;
