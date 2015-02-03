@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: d27d00d2947178343a85f16dc212a3be
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Water Spirit SS (1)_0
+    21300002: Water Spirit SS (1)_1
+    21300004: Water Spirit SS (1)_2
+    21300006: Water Spirit SS (1)_3
+    21300008: Water Spirit SS (1)_4
+    21300010: Water Spirit SS (1)_5
+    21300012: Water Spirit SS (1)_6
+    21300014: Water Spirit SS (1)_7
+    21300016: Water Spirit SS (1)_8
+    21300018: Water Spirit SS (1)_9
+    21300020: Water Spirit SS (1)_10
+    21300022: Water Spirit SS (1)_11
+    21300024: Water Spirit SS (1)_12
+    21300026: Water Spirit SS (1)_13
+    21300028: Water Spirit SS (1)_14
+    21300030: Water Spirit SS (1)_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Water Spirit SS (1)_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 402
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 5
+        width: 449
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 62
+        width: 488
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 148
+        width: 535
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 167
+        width: 574
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_5
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 120
+        width: 593
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_6
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 81
+        width: 555
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_7
+      rect:
+        serializedVersion: 2
+        x: 4289
+        y: 53
+        width: 459
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_8
+      rect:
+        serializedVersion: 2
+        x: 4939
+        y: 43
+        width: 402
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_9
+      rect:
+        serializedVersion: 2
+        x: 5551
+        y: 14
+        width: 449
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_10
+      rect:
+        serializedVersion: 2
+        x: 6163
+        y: 0
+        width: 488
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_11
+      rect:
+        serializedVersion: 2
+        x: 6757
+        y: 5
+        width: 534
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_12
+      rect:
+        serializedVersion: 2
+        x: 7339
+        y: 43
+        width: 574
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_13
+      rect:
+        serializedVersion: 2
+        x: 7961
+        y: 43
+        width: 593
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_14
+      rect:
+        serializedVersion: 2
+        x: 8630
+        y: 43
+        width: 555
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Spirit SS (1)_15
+      rect:
+        serializedVersion: 2
+        x: 9328
+        y: 24
+        width: 459
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

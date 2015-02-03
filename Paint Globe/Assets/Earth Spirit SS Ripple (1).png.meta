@@ -1,0 +1,1042 @@
+fileFormatVersion: 2
+guid: f1501af8f0009c4489b6b0e06f48ba1c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Earth Spirit SS Ripple (1)_0
+    21300002: Earth Spirit SS Ripple (1)_1
+    21300004: Earth Spirit SS Ripple (1)_2
+    21300006: Earth Spirit SS Ripple (1)_3
+    21300008: Earth Spirit SS Ripple (1)_4
+    21300010: Earth Spirit SS Ripple (1)_5
+    21300012: Earth Spirit SS Ripple (1)_6
+    21300014: Earth Spirit SS Ripple (1)_7
+    21300016: Earth Spirit SS Ripple (1)_8
+    21300018: Earth Spirit SS Ripple (1)_9
+    21300020: Earth Spirit SS Ripple (1)_10
+    21300022: Earth Spirit SS Ripple (1)_11
+    21300024: Earth Spirit SS Ripple (1)_12
+    21300026: Earth Spirit SS Ripple (1)_13
+    21300028: Earth Spirit SS Ripple (1)_14
+    21300030: Earth Spirit SS Ripple (1)_15
+    21300032: Earth Spirit SS Ripple (1)_16
+    21300034: Earth Spirit SS Ripple (1)_17
+    21300036: Earth Spirit SS Ripple (1)_18
+    21300038: Earth Spirit SS Ripple (1)_19
+    21300040: Earth Spirit SS Ripple (1)_20
+    21300042: Earth Spirit SS Ripple (1)_21
+    21300044: Earth Spirit SS Ripple (1)_22
+    21300046: Earth Spirit SS Ripple (1)_23
+    21300048: Earth Spirit SS Ripple (1)_24
+    21300050: Earth Spirit SS Ripple (1)_25
+    21300052: Earth Spirit SS Ripple (1)_26
+    21300054: Earth Spirit SS Ripple (1)_27
+    21300056: Earth Spirit SS Ripple (1)_28
+    21300058: Earth Spirit SS Ripple (1)_29
+    21300060: Earth Spirit SS Ripple (1)_30
+    21300062: Earth Spirit SS Ripple (1)_31
+    21300064: Earth Spirit SS Ripple (1)_32
+    21300066: Earth Spirit SS Ripple (1)_33
+    21300068: Earth Spirit SS Ripple (1)_34
+    21300070: Earth Spirit SS Ripple (1)_35
+    21300072: Earth Spirit SS Ripple (1)_36
+    21300074: Earth Spirit SS Ripple (1)_37
+    21300076: Earth Spirit SS Ripple (1)_38
+    21300078: Earth Spirit SS Ripple (1)_39
+    21300080: Earth Spirit SS Ripple (1)_40
+    21300082: Earth Spirit SS Ripple (1)_41
+    21300084: Earth Spirit SS Ripple (1)_42
+    21300086: Earth Spirit SS Ripple (1)_43
+    21300088: Earth Spirit SS Ripple (1)_44
+    21300090: Earth Spirit SS Ripple (1)_45
+    21300092: Earth Spirit SS Ripple (1)_46
+    21300094: Earth Spirit SS Ripple (1)_47
+    21300096: Earth Spirit SS Ripple (1)_48
+    21300098: Earth Spirit SS Ripple (1)_49
+    21300100: Earth Spirit SS Ripple (1)_50
+    21300102: Earth Spirit SS Ripple (1)_51
+    21300104: Earth Spirit SS Ripple (1)_52
+    21300106: Earth Spirit SS Ripple (1)_53
+    21300108: Earth Spirit SS Ripple (1)_54
+    21300110: Earth Spirit SS Ripple (1)_55
+    21300112: Earth Spirit SS Ripple (1)_56
+    21300114: Earth Spirit SS Ripple (1)_57
+    21300116: Earth Spirit SS Ripple (1)_58
+    21300118: Earth Spirit SS Ripple (1)_59
+    21300120: Earth Spirit SS Ripple (1)_60
+    21300122: Earth Spirit SS Ripple (1)_61
+    21300124: Earth Spirit SS Ripple (1)_62
+    21300126: Earth Spirit SS Ripple (1)_63
+    21300128: Earth Spirit SS Ripple (1)_64
+    21300130: Earth Spirit SS Ripple (1)_65
+    21300132: Earth Spirit SS Ripple (1)_66
+    21300134: Earth Spirit SS Ripple (1)_67
+    21300136: Earth Spirit SS Ripple (1)_68
+    21300138: Earth Spirit SS Ripple (1)_69
+    21300140: Earth Spirit SS Ripple (1)_70
+    21300142: Earth Spirit SS Ripple (1)_71
+    21300144: Earth Spirit SS Ripple (1)_72
+    21300146: Earth Spirit SS Ripple (1)_73
+    21300148: Earth Spirit SS Ripple (1)_74
+    21300150: Earth Spirit SS Ripple (1)_75
+    21300152: Earth Spirit SS Ripple (1)_76
+    21300154: Earth Spirit SS Ripple (1)_77
+    21300156: Earth Spirit SS Ripple (1)_78
+    21300158: Earth Spirit SS Ripple (1)_79
+    21300160: Earth Spirit SS Ripple (1)_80
+    21300162: Earth Spirit SS Ripple (1)_81
+    21300164: Earth Spirit SS Ripple (1)_82
+    21300166: Earth Spirit SS Ripple (1)_83
+    21300168: Earth Spirit SS Ripple (1)_84
+    21300170: Earth Spirit SS Ripple (1)_85
+    21300172: Earth Spirit SS Ripple (1)_86
+    21300174: Earth Spirit SS Ripple (1)_87
+    21300176: Earth Spirit SS Ripple (1)_88
+    21300178: Earth Spirit SS Ripple (1)_89
+    21300180: Earth Spirit SS Ripple (1)_90
+    21300182: Earth Spirit SS Ripple (1)_91
+    21300184: Earth Spirit SS Ripple (1)_92
+    21300186: Earth Spirit SS Ripple (1)_93
+    21300188: Earth Spirit SS Ripple (1)_94
+    21300190: Earth Spirit SS Ripple (1)_95
+    21300192: Earth Spirit SS Ripple (1)_96
+    21300194: Earth Spirit SS Ripple (1)_97
+    21300196: Earth Spirit SS Ripple (1)_98
+    21300198: Earth Spirit SS Ripple (1)_99
+    21300200: Earth Spirit SS Ripple (1)_100
+    21300202: Earth Spirit SS Ripple (1)_101
+    21300204: Earth Spirit SS Ripple (1)_102
+    21300206: Earth Spirit SS Ripple (1)_103
+    21300208: Earth Spirit SS Ripple (1)_104
+    21300210: Earth Spirit SS Ripple (1)_105
+    21300212: Earth Spirit SS Ripple (1)_106
+    21300214: Earth Spirit SS Ripple (1)_107
+    21300216: Earth Spirit SS Ripple (1)_108
+    21300218: Earth Spirit SS Ripple (1)_109
+    21300220: Earth Spirit SS Ripple (1)_110
+    21300222: Earth Spirit SS Ripple (1)_111
+    21300224: Earth Spirit SS Ripple (1)_112
+    21300226: Earth Spirit SS Ripple (1)_113
+    21300228: Earth Spirit SS Ripple (1)_114
+    21300230: Earth Spirit SS Ripple (1)_115
+    21300232: Earth Spirit SS Ripple (1)_116
+    21300234: Earth Spirit SS Ripple (1)_117
+    21300236: Earth Spirit SS Ripple (1)_118
+    21300238: Earth Spirit SS Ripple (1)_119
+    21300240: Earth Spirit SS Ripple (1)_120
+    21300242: Earth Spirit SS Ripple (1)_121
+    21300244: Earth Spirit SS Ripple (1)_122
+    21300246: Earth Spirit SS Ripple (1)_123
+    21300248: Earth Spirit SS Ripple (1)_124
+    21300250: Earth Spirit SS Ripple (1)_125
+    21300252: Earth Spirit SS Ripple (1)_126
+    21300254: Earth Spirit SS Ripple (1)_127
+    21300256: Earth Spirit SS Ripple (1)_128
+    21300258: Earth Spirit SS Ripple (1)_129
+    21300260: Earth Spirit SS Ripple (1)_130
+    21300262: Earth Spirit SS Ripple (1)_131
+    21300264: Earth Spirit SS Ripple (1)_132
+    21300266: Earth Spirit SS Ripple (1)_133
+    21300268: Earth Spirit SS Ripple (1)_134
+    21300270: Earth Spirit SS Ripple (1)_135
+    21300272: Earth Spirit SS Ripple (1)_136
+    21300274: Earth Spirit SS Ripple (1)_137
+    21300276: Earth Spirit SS Ripple (1)_138
+    21300278: Earth Spirit SS Ripple (1)_139
+    21300280: Earth Spirit SS Ripple (1)_140
+    21300282: Earth Spirit SS Ripple (1)_141
+    21300284: Earth Spirit SS Ripple (1)_142
+    21300286: Earth Spirit SS Ripple (1)_143
+    21300288: Earth Spirit SS Ripple (1)_144
+    21300290: Earth Spirit SS Ripple (1)_145
+    21300292: Earth Spirit SS Ripple (1)_146
+    21300294: Earth Spirit SS Ripple (1)_147
+    21300296: Earth Spirit SS Ripple (1)_148
+    21300298: Earth Spirit SS Ripple (1)_149
+    21300300: Earth Spirit SS Ripple (1)_150
+    21300302: Earth Spirit SS Ripple (1)_151
+    21300304: Earth Spirit SS Ripple (1)_152
+    21300306: Earth Spirit SS Ripple (1)_153
+    21300308: Earth Spirit SS Ripple (1)_154
+    21300310: Earth Spirit SS Ripple (1)_155
+    21300312: Earth Spirit SS Ripple (1)_156
+    21300314: Earth Spirit SS Ripple (1)_157
+    21300316: Earth Spirit SS Ripple (1)_158
+    21300318: Earth Spirit SS Ripple (1)_159
+    21300320: Earth Spirit SS Ripple (1)_160
+    21300322: Earth Spirit SS Ripple (1)_161
+    21300324: Earth Spirit SS Ripple (1)_162
+    21300326: Earth Spirit SS Ripple (1)_163
+    21300328: Earth Spirit SS Ripple (1)_164
+    21300330: Earth Spirit SS Ripple (1)_165
+    21300332: Earth Spirit SS Ripple (1)_166
+    21300334: Earth Spirit SS Ripple (1)_167
+    21300336: Earth Spirit SS Ripple (1)_168
+    21300338: Earth Spirit SS Ripple (1)_169
+    21300340: Earth Spirit SS Ripple (1)_170
+    21300342: Earth Spirit SS Ripple (1)_171
+    21300344: Earth Spirit SS Ripple (1)_172
+    21300346: Earth Spirit SS Ripple (1)_173
+    21300348: Earth Spirit SS Ripple (1)_174
+    21300350: Earth Spirit SS Ripple (1)_175
+    21300352: Earth Spirit SS Ripple (1)_176
+    21300354: Earth Spirit SS Ripple (1)_177
+    21300356: Earth Spirit SS Ripple (1)_178
+    21300358: Earth Spirit SS Ripple (1)_179
+    21300360: Earth Spirit SS Ripple (1)_180
+    21300362: Earth Spirit SS Ripple (1)_181
+    21300364: Earth Spirit SS Ripple (1)_182
+    21300366: Earth Spirit SS Ripple (1)_183
+    21300368: Earth Spirit SS Ripple (1)_184
+    21300370: Earth Spirit SS Ripple (1)_185
+    21300372: Earth Spirit SS Ripple (1)_186
+    21300374: Earth Spirit SS Ripple (1)_187
+    21300376: Earth Spirit SS Ripple (1)_188
+    21300378: Earth Spirit SS Ripple (1)_189
+    21300380: Earth Spirit SS Ripple (1)_190
+    21300382: Earth Spirit SS Ripple (1)_191
+    21300384: Earth Spirit SS Ripple (1)_192
+    21300386: Earth Spirit SS Ripple (1)_193
+    21300388: Earth Spirit SS Ripple (1)_194
+    21300390: Earth Spirit SS Ripple (1)_195
+    21300392: Earth Spirit SS Ripple (1)_196
+    21300394: Earth Spirit SS Ripple (1)_197
+    21300396: Earth Spirit SS Ripple (1)_198
+    21300398: Earth Spirit SS Ripple (1)_199
+    21300400: Earth Spirit SS Ripple (1)_200
+    21300402: Earth Spirit SS Ripple (1)_201
+    21300404: Earth Spirit SS Ripple (1)_202
+    21300406: Earth Spirit SS Ripple (1)_203
+    21300408: Earth Spirit SS Ripple (1)_204
+    21300410: Earth Spirit SS Ripple (1)_205
+    21300412: Earth Spirit SS Ripple (1)_206
+    21300414: Earth Spirit SS Ripple (1)_207
+    21300416: Earth Spirit SS Ripple (1)_208
+    21300418: Earth Spirit SS Ripple (1)_209
+    21300420: Earth Spirit SS Ripple (1)_210
+    21300422: Earth Spirit SS Ripple (1)_211
+    21300424: Earth Spirit SS Ripple (1)_212
+    21300426: Earth Spirit SS Ripple (1)_213
+    21300428: Earth Spirit SS Ripple (1)_214
+    21300430: Earth Spirit SS Ripple (1)_215
+    21300432: Earth Spirit SS Ripple (1)_216
+    21300434: Earth Spirit SS Ripple (1)_217
+    21300436: Earth Spirit SS Ripple (1)_218
+    21300438: Earth Spirit SS Ripple (1)_219
+    21300440: Earth Spirit SS Ripple (1)_220
+    21300442: Earth Spirit SS Ripple (1)_221
+    21300444: Earth Spirit SS Ripple (1)_222
+    21300446: Earth Spirit SS Ripple (1)_223
+    21300448: Earth Spirit SS Ripple (1)_224
+    21300450: Earth Spirit SS Ripple (1)_225
+    21300452: Earth Spirit SS Ripple (1)_226
+    21300454: Earth Spirit SS Ripple (1)_227
+    21300456: Earth Spirit SS Ripple (1)_228
+    21300458: Earth Spirit SS Ripple (1)_229
+    21300460: Earth Spirit SS Ripple (1)_230
+    21300462: Earth Spirit SS Ripple (1)_231
+    21300464: Earth Spirit SS Ripple (1)_232
+    21300466: Earth Spirit SS Ripple (1)_233
+    21300468: Earth Spirit SS Ripple (1)_234
+    21300470: Earth Spirit SS Ripple (1)_235
+    21300472: Earth Spirit SS Ripple (1)_236
+    21300474: Earth Spirit SS Ripple (1)_237
+    21300476: Earth Spirit SS Ripple (1)_238
+    21300478: Earth Spirit SS Ripple (1)_239
+    21300480: Earth Spirit SS Ripple (1)_240
+    21300482: Earth Spirit SS Ripple (1)_241
+    21300484: Earth Spirit SS Ripple (1)_242
+    21300486: Earth Spirit SS Ripple (1)_243
+    21300488: Earth Spirit SS Ripple (1)_244
+    21300490: Earth Spirit SS Ripple (1)_245
+    21300492: Earth Spirit SS Ripple (1)_246
+    21300494: Earth Spirit SS Ripple (1)_247
+    21300496: Earth Spirit SS Ripple (1)_248
+    21300498: Earth Spirit SS Ripple (1)_249
+    21300500: Earth Spirit SS Ripple (1)_250
+    21300502: Earth Spirit SS Ripple (1)_251
+    21300504: Earth Spirit SS Ripple (1)_252
+    21300506: Earth Spirit SS Ripple (1)_253
+    21300508: Earth Spirit SS Ripple (1)_254
+    21300510: Earth Spirit SS Ripple (1)_255
+    21300512: Earth Spirit SS Ripple (1)_256
+    21300514: Earth Spirit SS Ripple (1)_257
+    21300516: Earth Spirit SS Ripple (1)_258
+    21300518: Earth Spirit SS Ripple (1)_259
+    21300520: Earth Spirit SS Ripple (1)_260
+    21300522: Earth Spirit SS Ripple (1)_261
+    21300524: Earth Spirit SS Ripple (1)_262
+    21300526: Earth Spirit SS Ripple (1)_263
+    21300528: Earth Spirit SS Ripple (1)_264
+    21300530: Earth Spirit SS Ripple (1)_265
+    21300532: Earth Spirit SS Ripple (1)_266
+    21300534: Earth Spirit SS Ripple (1)_267
+    21300536: Earth Spirit SS Ripple (1)_268
+    21300538: Earth Spirit SS Ripple (1)_269
+    21300540: Earth Spirit SS Ripple (1)_270
+    21300542: Earth Spirit SS Ripple (1)_271
+    21300544: Earth Spirit SS Ripple (1)_272
+    21300546: Earth Spirit SS Ripple (1)_273
+    21300548: Earth Spirit SS Ripple (1)_274
+    21300550: Earth Spirit SS Ripple (1)_275
+    21300552: Earth Spirit SS Ripple (1)_276
+    21300554: Earth Spirit SS Ripple (1)_277
+    21300556: Earth Spirit SS Ripple (1)_278
+    21300558: Earth Spirit SS Ripple (1)_279
+    21300560: Earth Spirit SS Ripple (1)_280
+    21300562: Earth Spirit SS Ripple (1)_281
+    21300564: Earth Spirit SS Ripple (1)_282
+    21300566: Earth Spirit SS Ripple (1)_283
+    21300568: Earth Spirit SS Ripple (1)_284
+    21300570: Earth Spirit SS Ripple (1)_285
+    21300572: Earth Spirit SS Ripple (1)_286
+    21300574: Earth Spirit SS Ripple (1)_287
+    21300576: Earth Spirit SS Ripple (1)_288
+    21300578: Earth Spirit SS Ripple (1)_289
+    21300580: Earth Spirit SS Ripple (1)_290
+    21300582: Earth Spirit SS Ripple (1)_291
+    21300584: Earth Spirit SS Ripple (1)_292
+    21300586: Earth Spirit SS Ripple (1)_293
+    21300588: Earth Spirit SS Ripple (1)_294
+    21300590: Earth Spirit SS Ripple (1)_295
+    21300592: Earth Spirit SS Ripple (1)_296
+    21300594: Earth Spirit SS Ripple (1)_297
+    21300596: Earth Spirit SS Ripple (1)_298
+    21300598: Earth Spirit SS Ripple (1)_299
+    21300600: Earth Spirit SS Ripple (1)_300
+    21300602: Earth Spirit SS Ripple (1)_301
+    21300604: Earth Spirit SS Ripple (1)_302
+    21300606: Earth Spirit SS Ripple (1)_303
+    21300608: Earth Spirit SS Ripple (1)_304
+    21300610: Earth Spirit SS Ripple (1)_305
+    21300612: Earth Spirit SS Ripple (1)_306
+    21300614: Earth Spirit SS Ripple (1)_307
+    21300616: Earth Spirit SS Ripple (1)_308
+    21300618: Earth Spirit SS Ripple (1)_309
+    21300620: Earth Spirit SS Ripple (1)_310
+    21300622: Earth Spirit SS Ripple (1)_311
+    21300624: Earth Spirit SS Ripple (1)_312
+    21300626: Earth Spirit SS Ripple (1)_313
+    21300628: Earth Spirit SS Ripple (1)_314
+    21300630: Earth Spirit SS Ripple (1)_315
+    21300632: Earth Spirit SS Ripple (1)_316
+    21300634: Earth Spirit SS Ripple (1)_317
+    21300636: Earth Spirit SS Ripple (1)_318
+    21300638: Earth Spirit SS Ripple (1)_319
+    21300640: Earth Spirit SS Ripple (1)_320
+    21300642: Earth Spirit SS Ripple (1)_321
+    21300644: Earth Spirit SS Ripple (1)_322
+    21300646: Earth Spirit SS Ripple (1)_323
+    21300648: Earth Spirit SS Ripple (1)_324
+    21300650: Earth Spirit SS Ripple (1)_325
+    21300652: Earth Spirit SS Ripple (1)_326
+    21300654: Earth Spirit SS Ripple (1)_327
+    21300656: Earth Spirit SS Ripple (1)_328
+    21300658: Earth Spirit SS Ripple (1)_329
+    21300660: Earth Spirit SS Ripple (1)_330
+    21300662: Earth Spirit SS Ripple (1)_331
+    21300664: Earth Spirit SS Ripple (1)_332
+    21300666: Earth Spirit SS Ripple (1)_333
+    21300668: Earth Spirit SS Ripple (1)_334
+    21300670: Earth Spirit SS Ripple (1)_335
+    21300672: Earth Spirit SS Ripple (1)_336
+    21300674: Earth Spirit SS Ripple (1)_337
+    21300676: Earth Spirit SS Ripple (1)_338
+    21300678: Earth Spirit SS Ripple (1)_339
+    21300680: Earth Spirit SS Ripple (1)_340
+    21300682: Earth Spirit SS Ripple (1)_341
+    21300684: Earth Spirit SS Ripple (1)_342
+    21300686: Earth Spirit SS Ripple (1)_343
+    21300688: Earth Spirit SS Ripple (1)_344
+    21300690: Earth Spirit SS Ripple (1)_345
+    21300692: Earth Spirit SS Ripple (1)_346
+    21300694: Earth Spirit SS Ripple (1)_347
+    21300696: Earth Spirit SS Ripple (1)_348
+    21300698: Earth Spirit SS Ripple (1)_349
+    21300700: Earth Spirit SS Ripple (1)_350
+    21300702: Earth Spirit SS Ripple (1)_351
+    21300704: Earth Spirit SS Ripple (1)_352
+    21300706: Earth Spirit SS Ripple (1)_353
+    21300708: Earth Spirit SS Ripple (1)_354
+    21300710: Earth Spirit SS Ripple (1)_355
+    21300712: Earth Spirit SS Ripple (1)_356
+    21300714: Earth Spirit SS Ripple (1)_357
+    21300716: Earth Spirit SS Ripple (1)_358
+    21300718: Earth Spirit SS Ripple (1)_359
+    21300720: Earth Spirit SS Ripple (1)_360
+    21300722: Earth Spirit SS Ripple (1)_361
+    21300724: Earth Spirit SS Ripple (1)_362
+    21300726: Earth Spirit SS Ripple (1)_363
+    21300728: Earth Spirit SS Ripple (1)_364
+    21300730: Earth Spirit SS Ripple (1)_365
+    21300732: Earth Spirit SS Ripple (1)_366
+    21300734: Earth Spirit SS Ripple (1)_367
+    21300736: Earth Spirit SS Ripple (1)_368
+    21300738: Earth Spirit SS Ripple (1)_369
+    21300740: Earth Spirit SS Ripple (1)_370
+    21300742: Earth Spirit SS Ripple (1)_371
+    21300744: Earth Spirit SS Ripple (1)_372
+    21300746: Earth Spirit SS Ripple (1)_373
+    21300748: Earth Spirit SS Ripple (1)_374
+    21300750: Earth Spirit SS Ripple (1)_375
+    21300752: Earth Spirit SS Ripple (1)_376
+    21300754: Earth Spirit SS Ripple (1)_377
+    21300756: Earth Spirit SS Ripple (1)_378
+    21300758: Earth Spirit SS Ripple (1)_379
+    21300760: Earth Spirit SS Ripple (1)_380
+    21300762: Earth Spirit SS Ripple (1)_381
+    21300764: Earth Spirit SS Ripple (1)_382
+    21300766: Earth Spirit SS Ripple (1)_383
+    21300768: Earth Spirit SS Ripple (1)_384
+    21300770: Earth Spirit SS Ripple (1)_385
+    21300772: Earth Spirit SS Ripple (1)_386
+    21300774: Earth Spirit SS Ripple (1)_387
+    21300776: Earth Spirit SS Ripple (1)_388
+    21300778: Earth Spirit SS Ripple (1)_389
+    21300780: Earth Spirit SS Ripple (1)_390
+    21300782: Earth Spirit SS Ripple (1)_391
+    21300784: Earth Spirit SS Ripple (1)_392
+    21300786: Earth Spirit SS Ripple (1)_393
+    21300788: Earth Spirit SS Ripple (1)_394
+    21300790: Earth Spirit SS Ripple (1)_395
+    21300792: Earth Spirit SS Ripple (1)_396
+    21300794: Earth Spirit SS Ripple (1)_397
+    21300796: Earth Spirit SS Ripple (1)_398
+    21300798: Earth Spirit SS Ripple (1)_399
+    21300800: Earth Spirit SS Ripple (1)_400
+    21300802: Earth Spirit SS Ripple (1)_401
+    21300804: Earth Spirit SS Ripple (1)_402
+    21300806: Earth Spirit SS Ripple (1)_403
+    21300808: Earth Spirit SS Ripple (1)_404
+    21300810: Earth Spirit SS Ripple (1)_405
+    21300812: Earth Spirit SS Ripple (1)_406
+    21300814: Earth Spirit SS Ripple (1)_407
+    21300816: Earth Spirit SS Ripple (1)_408
+    21300818: Earth Spirit SS Ripple (1)_409
+    21300820: Earth Spirit SS Ripple (1)_410
+    21300822: Earth Spirit SS Ripple (1)_411
+    21300824: Earth Spirit SS Ripple (1)_412
+    21300826: Earth Spirit SS Ripple (1)_413
+    21300828: Earth Spirit SS Ripple (1)_414
+    21300830: Earth Spirit SS Ripple (1)_415
+    21300832: Earth Spirit SS Ripple (1)_416
+    21300834: Earth Spirit SS Ripple (1)_417
+    21300836: Earth Spirit SS Ripple (1)_418
+    21300838: Earth Spirit SS Ripple (1)_419
+    21300840: Earth Spirit SS Ripple (1)_420
+    21300842: Earth Spirit SS Ripple (1)_421
+    21300844: Earth Spirit SS Ripple (1)_422
+    21300846: Earth Spirit SS Ripple (1)_423
+    21300848: Earth Spirit SS Ripple (1)_424
+    21300850: Earth Spirit SS Ripple (1)_425
+    21300852: Earth Spirit SS Ripple (1)_426
+    21300854: Earth Spirit SS Ripple (1)_427
+    21300856: Earth Spirit SS Ripple (1)_428
+    21300858: Earth Spirit SS Ripple (1)_429
+    21300860: Earth Spirit SS Ripple (1)_430
+    21300862: Earth Spirit SS Ripple (1)_431
+    21300864: Earth Spirit SS Ripple (1)_432
+    21300866: Earth Spirit SS Ripple (1)_433
+    21300868: Earth Spirit SS Ripple (1)_434
+    21300870: Earth Spirit SS Ripple (1)_435
+    21300872: Earth Spirit SS Ripple (1)_436
+    21300874: Earth Spirit SS Ripple (1)_437
+    21300876: Earth Spirit SS Ripple (1)_438
+    21300878: Earth Spirit SS Ripple (1)_439
+    21300880: Earth Spirit SS Ripple (1)_440
+    21300882: Earth Spirit SS Ripple (1)_441
+    21300884: Earth Spirit SS Ripple (1)_442
+    21300886: Earth Spirit SS Ripple (1)_443
+    21300888: Earth Spirit SS Ripple (1)_444
+    21300890: Earth Spirit SS Ripple (1)_445
+    21300892: Earth Spirit SS Ripple (1)_446
+    21300894: Earth Spirit SS Ripple (1)_447
+    21300896: Earth Spirit SS Ripple (1)_448
+    21300898: Earth Spirit SS Ripple (1)_449
+    21300900: Earth Spirit SS Ripple (1)_450
+    21300902: Earth Spirit SS Ripple (1)_451
+    21300904: Earth Spirit SS Ripple (1)_452
+    21300906: Earth Spirit SS Ripple (1)_453
+    21300908: Earth Spirit SS Ripple (1)_454
+    21300910: Earth Spirit SS Ripple (1)_455
+    21300912: Earth Spirit SS Ripple (1)_456
+    21300914: Earth Spirit SS Ripple (1)_457
+    21300916: Earth Spirit SS Ripple (1)_458
+    21300918: Earth Spirit SS Ripple (1)_459
+    21300920: Earth Spirit SS Ripple (1)_460
+    21300922: Earth Spirit SS Ripple (1)_461
+    21300924: Earth Spirit SS Ripple (1)_462
+    21300926: Earth Spirit SS Ripple (1)_463
+    21300928: Earth Spirit SS Ripple (1)_464
+    21300930: Earth Spirit SS Ripple (1)_465
+    21300932: Earth Spirit SS Ripple (1)_466
+    21300934: Earth Spirit SS Ripple (1)_467
+    21300936: Earth Spirit SS Ripple (1)_468
+    21300938: Earth Spirit SS Ripple (1)_469
+    21300940: Earth Spirit SS Ripple (1)_470
+    21300942: Earth Spirit SS Ripple (1)_471
+    21300944: Earth Spirit SS Ripple (1)_472
+    21300946: Earth Spirit SS Ripple (1)_473
+    21300948: Earth Spirit SS Ripple (1)_474
+    21300950: Earth Spirit SS Ripple (1)_475
+    21300952: Earth Spirit SS Ripple (1)_476
+    21300954: Earth Spirit SS Ripple (1)_477
+    21300956: Earth Spirit SS Ripple (1)_478
+    21300958: Earth Spirit SS Ripple (1)_479
+    21300960: Earth Spirit SS Ripple (1)_480
+    21300962: Earth Spirit SS Ripple (1)_481
+    21300964: Earth Spirit SS Ripple (1)_482
+    21300966: Earth Spirit SS Ripple (1)_483
+    21300968: Earth Spirit SS Ripple (1)_484
+    21300970: Earth Spirit SS Ripple (1)_485
+    21300972: Earth Spirit SS Ripple (1)_486
+    21300974: Earth Spirit SS Ripple (1)_487
+    21300976: Earth Spirit SS Ripple (1)_488
+    21300978: Earth Spirit SS Ripple (1)_489
+    21300980: Earth Spirit SS Ripple (1)_490
+    21300982: Earth Spirit SS Ripple (1)_491
+    21300984: Earth Spirit SS Ripple (1)_492
+    21300986: Earth Spirit SS Ripple (1)_493
+    21300988: Earth Spirit SS Ripple (1)_494
+    21300990: Earth Spirit SS Ripple (1)_495
+    21300992: Earth Spirit SS Ripple (1)_496
+    21300994: Earth Spirit SS Ripple (1)_497
+    21300996: Earth Spirit SS Ripple (1)_498
+    21300998: Earth Spirit SS Ripple (1)_499
+    21301000: Earth Spirit SS Ripple (1)_500
+    21301002: Earth Spirit SS Ripple (1)_501
+    21301004: Earth Spirit SS Ripple (1)_502
+    21301006: Earth Spirit SS Ripple (1)_503
+    21301008: Earth Spirit SS Ripple (1)_504
+    21301010: Earth Spirit SS Ripple (1)_505
+    21301012: Earth Spirit SS Ripple (1)_506
+    21301014: Earth Spirit SS Ripple (1)_507
+    21301016: Earth Spirit SS Ripple (1)_508
+    21301018: Earth Spirit SS Ripple (1)_509
+    21301020: Earth Spirit SS Ripple (1)_510
+    21301022: Earth Spirit SS Ripple (1)_511
+    21301024: Earth Spirit SS Ripple (1)_512
+    21301026: Earth Spirit SS Ripple (1)_513
+    21301028: Earth Spirit SS Ripple (1)_514
+    21301030: Earth Spirit SS Ripple (1)_515
+    21301032: Earth Spirit SS Ripple (1)_516
+    21301034: Earth Spirit SS Ripple (1)_517
+    21301036: Earth Spirit SS Ripple (1)_518
+    21301038: Earth Spirit SS Ripple (1)_519
+    21301040: Earth Spirit SS Ripple (1)_520
+    21301042: Earth Spirit SS Ripple (1)_521
+    21301044: Earth Spirit SS Ripple (1)_522
+    21301046: Earth Spirit SS Ripple (1)_523
+    21301048: Earth Spirit SS Ripple (1)_524
+    21301050: Earth Spirit SS Ripple (1)_525
+    21301052: Earth Spirit SS Ripple (1)_526
+    21301054: Earth Spirit SS Ripple (1)_527
+    21301056: Earth Spirit SS Ripple (1)_528
+    21301058: Earth Spirit SS Ripple (1)_529
+    21301060: Earth Spirit SS Ripple (1)_530
+    21301062: Earth Spirit SS Ripple (1)_531
+    21301064: Earth Spirit SS Ripple (1)_532
+    21301066: Earth Spirit SS Ripple (1)_533
+    21301068: Earth Spirit SS Ripple (1)_534
+    21301070: Earth Spirit SS Ripple (1)_535
+    21301072: Earth Spirit SS Ripple (1)_536
+    21301074: Earth Spirit SS Ripple (1)_537
+    21301076: Earth Spirit SS Ripple (1)_538
+    21301078: Earth Spirit SS Ripple (1)_539
+    21301080: Earth Spirit SS Ripple (1)_540
+    21301082: Earth Spirit SS Ripple (1)_541
+    21301084: Earth Spirit SS Ripple (1)_542
+    21301086: Earth Spirit SS Ripple (1)_543
+    21301088: Earth Spirit SS Ripple (1)_544
+    21301090: Earth Spirit SS Ripple (1)_545
+    21301092: Earth Spirit SS Ripple (1)_546
+    21301094: Earth Spirit SS Ripple (1)_547
+    21301096: Earth Spirit SS Ripple (1)_548
+    21301098: Earth Spirit SS Ripple (1)_549
+    21301100: Earth Spirit SS Ripple (1)_550
+    21301102: Earth Spirit SS Ripple (1)_551
+    21301104: Earth Spirit SS Ripple (1)_552
+    21301106: Earth Spirit SS Ripple (1)_553
+    21301108: Earth Spirit SS Ripple (1)_554
+    21301110: Earth Spirit SS Ripple (1)_555
+    21301112: Earth Spirit SS Ripple (1)_556
+    21301114: Earth Spirit SS Ripple (1)_557
+    21301116: Earth Spirit SS Ripple (1)_558
+    21301118: Earth Spirit SS Ripple (1)_559
+    21301120: Earth Spirit SS Ripple (1)_560
+    21301122: Earth Spirit SS Ripple (1)_561
+    21301124: Earth Spirit SS Ripple (1)_562
+    21301126: Earth Spirit SS Ripple (1)_563
+    21301128: Earth Spirit SS Ripple (1)_564
+    21301130: Earth Spirit SS Ripple (1)_565
+    21301132: Earth Spirit SS Ripple (1)_566
+    21301134: Earth Spirit SS Ripple (1)_567
+    21301136: Earth Spirit SS Ripple (1)_568
+    21301138: Earth Spirit SS Ripple (1)_569
+    21301140: Earth Spirit SS Ripple (1)_570
+    21301142: Earth Spirit SS Ripple (1)_571
+    21301144: Earth Spirit SS Ripple (1)_572
+    21301146: Earth Spirit SS Ripple (1)_573
+    21301148: Earth Spirit SS Ripple (1)_574
+    21301150: Earth Spirit SS Ripple (1)_575
+    21301152: Earth Spirit SS Ripple (1)_576
+    21301154: Earth Spirit SS Ripple (1)_577
+    21301156: Earth Spirit SS Ripple (1)_578
+    21301158: Earth Spirit SS Ripple (1)_579
+    21301160: Earth Spirit SS Ripple (1)_580
+    21301162: Earth Spirit SS Ripple (1)_581
+    21301164: Earth Spirit SS Ripple (1)_582
+    21301166: Earth Spirit SS Ripple (1)_583
+    21301168: Earth Spirit SS Ripple (1)_584
+    21301170: Earth Spirit SS Ripple (1)_585
+    21301172: Earth Spirit SS Ripple (1)_586
+    21301174: Earth Spirit SS Ripple (1)_587
+    21301176: Earth Spirit SS Ripple (1)_588
+    21301178: Earth Spirit SS Ripple (1)_589
+    21301180: Earth Spirit SS Ripple (1)_590
+    21301182: Earth Spirit SS Ripple (1)_591
+    21301184: Earth Spirit SS Ripple (1)_592
+    21301186: Earth Spirit SS Ripple (1)_593
+    21301188: Earth Spirit SS Ripple (1)_594
+    21301190: Earth Spirit SS Ripple (1)_595
+    21301192: Earth Spirit SS Ripple (1)_596
+    21301194: Earth Spirit SS Ripple (1)_597
+    21301196: Earth Spirit SS Ripple (1)_598
+    21301198: Earth Spirit SS Ripple (1)_599
+    21301200: Earth Spirit SS Ripple (1)_600
+    21301202: Earth Spirit SS Ripple (1)_601
+    21301204: Earth Spirit SS Ripple (1)_602
+    21301206: Earth Spirit SS Ripple (1)_603
+    21301208: Earth Spirit SS Ripple (1)_604
+    21301210: Earth Spirit SS Ripple (1)_605
+    21301212: Earth Spirit SS Ripple (1)_606
+    21301214: Earth Spirit SS Ripple (1)_607
+    21301216: Earth Spirit SS Ripple (1)_608
+    21301218: Earth Spirit SS Ripple (1)_609
+    21301220: Earth Spirit SS Ripple (1)_610
+    21301222: Earth Spirit SS Ripple (1)_611
+    21301224: Earth Spirit SS Ripple (1)_612
+    21301226: Earth Spirit SS Ripple (1)_613
+    21301228: Earth Spirit SS Ripple (1)_614
+    21301230: Earth Spirit SS Ripple (1)_615
+    21301232: Earth Spirit SS Ripple (1)_616
+    21301234: Earth Spirit SS Ripple (1)_617
+    21301236: Earth Spirit SS Ripple (1)_618
+    21301238: Earth Spirit SS Ripple (1)_619
+    21301240: Earth Spirit SS Ripple (1)_620
+    21301242: Earth Spirit SS Ripple (1)_621
+    21301244: Earth Spirit SS Ripple (1)_622
+    21301246: Earth Spirit SS Ripple (1)_623
+    21301248: Earth Spirit SS Ripple (1)_624
+    21301250: Earth Spirit SS Ripple (1)_625
+    21301252: Earth Spirit SS Ripple (1)_626
+    21301254: Earth Spirit SS Ripple (1)_627
+    21301256: Earth Spirit SS Ripple (1)_628
+    21301258: Earth Spirit SS Ripple (1)_629
+    21301260: Earth Spirit SS Ripple (1)_630
+    21301262: Earth Spirit SS Ripple (1)_631
+    21301264: Earth Spirit SS Ripple (1)_632
+    21301266: Earth Spirit SS Ripple (1)_633
+    21301268: Earth Spirit SS Ripple (1)_634
+    21301270: Earth Spirit SS Ripple (1)_635
+    21301272: Earth Spirit SS Ripple (1)_636
+    21301274: Earth Spirit SS Ripple (1)_637
+    21301276: Earth Spirit SS Ripple (1)_638
+    21301278: Earth Spirit SS Ripple (1)_639
+    21301280: Earth Spirit SS Ripple (1)_640
+    21301282: Earth Spirit SS Ripple (1)_641
+    21301284: Earth Spirit SS Ripple (1)_642
+    21301286: Earth Spirit SS Ripple (1)_643
+    21301288: Earth Spirit SS Ripple (1)_644
+    21301290: Earth Spirit SS Ripple (1)_645
+    21301292: Earth Spirit SS Ripple (1)_646
+    21301294: Earth Spirit SS Ripple (1)_647
+    21301296: Earth Spirit SS Ripple (1)_648
+    21301298: Earth Spirit SS Ripple (1)_649
+    21301300: Earth Spirit SS Ripple (1)_650
+    21301302: Earth Spirit SS Ripple (1)_651
+    21301304: Earth Spirit SS Ripple (1)_652
+    21301306: Earth Spirit SS Ripple (1)_653
+    21301308: Earth Spirit SS Ripple (1)_654
+    21301310: Earth Spirit SS Ripple (1)_655
+    21301312: Earth Spirit SS Ripple (1)_656
+    21301314: Earth Spirit SS Ripple (1)_657
+    21301316: Earth Spirit SS Ripple (1)_658
+    21301318: Earth Spirit SS Ripple (1)_659
+    21301320: Earth Spirit SS Ripple (1)_660
+    21301322: Earth Spirit SS Ripple (1)_661
+    21301324: Earth Spirit SS Ripple (1)_662
+    21301326: Earth Spirit SS Ripple (1)_663
+    21301328: Earth Spirit SS Ripple (1)_664
+    21301330: Earth Spirit SS Ripple (1)_665
+    21301332: Earth Spirit SS Ripple (1)_666
+    21301334: Earth Spirit SS Ripple (1)_667
+    21301336: Earth Spirit SS Ripple (1)_668
+    21301338: Earth Spirit SS Ripple (1)_669
+    21301340: Earth Spirit SS Ripple (1)_670
+    21301342: Earth Spirit SS Ripple (1)_671
+    21301344: Earth Spirit SS Ripple (1)_672
+    21301346: Earth Spirit SS Ripple (1)_673
+    21301348: Earth Spirit SS Ripple (1)_674
+    21301350: Earth Spirit SS Ripple (1)_675
+    21301352: Earth Spirit SS Ripple (1)_676
+    21301354: Earth Spirit SS Ripple (1)_677
+    21301356: Earth Spirit SS Ripple (1)_678
+    21301358: Earth Spirit SS Ripple (1)_679
+    21301360: Earth Spirit SS Ripple (1)_680
+    21301362: Earth Spirit SS Ripple (1)_681
+    21301364: Earth Spirit SS Ripple (1)_682
+    21301366: Earth Spirit SS Ripple (1)_683
+    21301368: Earth Spirit SS Ripple (1)_684
+    21301370: Earth Spirit SS Ripple (1)_685
+    21301372: Earth Spirit SS Ripple (1)_686
+    21301374: Earth Spirit SS Ripple (1)_687
+    21301376: Earth Spirit SS Ripple (1)_688
+    21301378: Earth Spirit SS Ripple (1)_689
+    21301380: Earth Spirit SS Ripple (1)_690
+    21301382: Earth Spirit SS Ripple (1)_691
+    21301384: Earth Spirit SS Ripple (1)_692
+    21301386: Earth Spirit SS Ripple (1)_693
+    21301388: Earth Spirit SS Ripple (1)_694
+    21301390: Earth Spirit SS Ripple (1)_695
+    21301392: Earth Spirit SS Ripple (1)_696
+    21301394: Earth Spirit SS Ripple (1)_697
+    21301396: Earth Spirit SS Ripple (1)_698
+    21301398: Earth Spirit SS Ripple (1)_699
+    21301400: Earth Spirit SS Ripple (1)_700
+    21301402: Earth Spirit SS Ripple (1)_701
+    21301404: Earth Spirit SS Ripple (1)_702
+    21301406: Earth Spirit SS Ripple (1)_703
+    21301408: Earth Spirit SS Ripple (1)_704
+    21301410: Earth Spirit SS Ripple (1)_705
+    21301412: Earth Spirit SS Ripple (1)_706
+    21301414: Earth Spirit SS Ripple (1)_707
+    21301416: Earth Spirit SS Ripple (1)_708
+    21301418: Earth Spirit SS Ripple (1)_709
+    21301420: Earth Spirit SS Ripple (1)_710
+    21301422: Earth Spirit SS Ripple (1)_711
+    21301424: Earth Spirit SS Ripple (1)_712
+    21301426: Earth Spirit SS Ripple (1)_713
+    21301428: Earth Spirit SS Ripple (1)_714
+    21301430: Earth Spirit SS Ripple (1)_715
+    21301432: Earth Spirit SS Ripple (1)_716
+    21301434: Earth Spirit SS Ripple (1)_717
+    21301436: Earth Spirit SS Ripple (1)_718
+    21301438: Earth Spirit SS Ripple (1)_719
+    21301440: Earth Spirit SS Ripple (1)_720
+    21301442: Earth Spirit SS Ripple (1)_721
+    21301444: Earth Spirit SS Ripple (1)_722
+    21301446: Earth Spirit SS Ripple (1)_723
+    21301448: Earth Spirit SS Ripple (1)_724
+    21301450: Earth Spirit SS Ripple (1)_725
+    21301452: Earth Spirit SS Ripple (1)_726
+    21301454: Earth Spirit SS Ripple (1)_727
+    21301456: Earth Spirit SS Ripple (1)_728
+    21301458: Earth Spirit SS Ripple (1)_729
+    21301460: Earth Spirit SS Ripple (1)_730
+    21301462: Earth Spirit SS Ripple (1)_731
+    21301464: Earth Spirit SS Ripple (1)_732
+    21301466: Earth Spirit SS Ripple (1)_733
+    21301468: Earth Spirit SS Ripple (1)_734
+    21301470: Earth Spirit SS Ripple (1)_735
+    21301472: Earth Spirit SS Ripple (1)_736
+    21301474: Earth Spirit SS Ripple (1)_737
+    21301476: Earth Spirit SS Ripple (1)_738
+    21301478: Earth Spirit SS Ripple (1)_739
+    21301480: Earth Spirit SS Ripple (1)_740
+    21301482: Earth Spirit SS Ripple (1)_741
+    21301484: Earth Spirit SS Ripple (1)_742
+    21301486: Earth Spirit SS Ripple (1)_743
+    21301488: Earth Spirit SS Ripple (1)_744
+    21301490: Earth Spirit SS Ripple (1)_745
+    21301492: Earth Spirit SS Ripple (1)_746
+    21301494: Earth Spirit SS Ripple (1)_747
+    21301496: Earth Spirit SS Ripple (1)_748
+    21301498: Earth Spirit SS Ripple (1)_749
+    21301500: Earth Spirit SS Ripple (1)_750
+    21301502: Earth Spirit SS Ripple (1)_751
+    21301504: Earth Spirit SS Ripple (1)_752
+    21301506: Earth Spirit SS Ripple (1)_753
+    21301508: Earth Spirit SS Ripple (1)_754
+    21301510: Earth Spirit SS Ripple (1)_755
+    21301512: Earth Spirit SS Ripple (1)_756
+    21301514: Earth Spirit SS Ripple (1)_757
+    21301516: Earth Spirit SS Ripple (1)_758
+    21301518: Earth Spirit SS Ripple (1)_759
+    21301520: Earth Spirit SS Ripple (1)_760
+    21301522: Earth Spirit SS Ripple (1)_761
+    21301524: Earth Spirit SS Ripple (1)_762
+    21301526: Earth Spirit SS Ripple (1)_763
+    21301528: Earth Spirit SS Ripple (1)_764
+    21301530: Earth Spirit SS Ripple (1)_765
+    21301532: Earth Spirit SS Ripple (1)_766
+    21301534: Earth Spirit SS Ripple (1)_767
+    21301536: Earth Spirit SS Ripple (1)_768
+    21301538: Earth Spirit SS Ripple (1)_769
+    21301540: Earth Spirit SS Ripple (1)_770
+    21301542: Earth Spirit SS Ripple (1)_771
+    21301544: Earth Spirit SS Ripple (1)_772
+    21301546: Earth Spirit SS Ripple (1)_773
+    21301548: Earth Spirit SS Ripple (1)_774
+    21301550: Earth Spirit SS Ripple (1)_775
+    21301552: Earth Spirit SS Ripple (1)_776
+    21301554: Earth Spirit SS Ripple (1)_777
+    21301556: Earth Spirit SS Ripple (1)_778
+    21301558: Earth Spirit SS Ripple (1)_779
+    21301560: Earth Spirit SS Ripple (1)_780
+    21301562: Earth Spirit SS Ripple (1)_781
+    21301564: Earth Spirit SS Ripple (1)_782
+    21301566: Earth Spirit SS Ripple (1)_783
+    21301568: Earth Spirit SS Ripple (1)_784
+    21301570: Earth Spirit SS Ripple (1)_785
+    21301572: Earth Spirit SS Ripple (1)_786
+    21301574: Earth Spirit SS Ripple (1)_787
+    21301576: Earth Spirit SS Ripple (1)_788
+    21301578: Earth Spirit SS Ripple (1)_789
+    21301580: Earth Spirit SS Ripple (1)_790
+    21301582: Earth Spirit SS Ripple (1)_791
+    21301584: Earth Spirit SS Ripple (1)_792
+    21301586: Earth Spirit SS Ripple (1)_793
+    21301588: Earth Spirit SS Ripple (1)_794
+    21301590: Earth Spirit SS Ripple (1)_795
+    21301592: Earth Spirit SS Ripple (1)_796
+    21301594: Earth Spirit SS Ripple (1)_797
+    21301596: Earth Spirit SS Ripple (1)_798
+    21301598: Earth Spirit SS Ripple (1)_799
+    21301600: Earth Spirit SS Ripple (1)_800
+    21301602: Earth Spirit SS Ripple (1)_801
+    21301604: Earth Spirit SS Ripple (1)_802
+    21301606: Earth Spirit SS Ripple (1)_803
+    21301608: Earth Spirit SS Ripple (1)_804
+    21301610: Earth Spirit SS Ripple (1)_805
+    21301612: Earth Spirit SS Ripple (1)_806
+    21301614: Earth Spirit SS Ripple (1)_807
+    21301616: Earth Spirit SS Ripple (1)_808
+    21301618: Earth Spirit SS Ripple (1)_809
+    21301620: Earth Spirit SS Ripple (1)_810
+    21301622: Earth Spirit SS Ripple (1)_811
+    21301624: Earth Spirit SS Ripple (1)_812
+    21301626: Earth Spirit SS Ripple (1)_813
+    21301628: Earth Spirit SS Ripple (1)_814
+    21301630: Earth Spirit SS Ripple (1)_815
+    21301632: Earth Spirit SS Ripple (1)_816
+    21301634: Earth Spirit SS Ripple (1)_817
+    21301636: Earth Spirit SS Ripple (1)_818
+    21301638: Earth Spirit SS Ripple (1)_819
+    21301640: Earth Spirit SS Ripple (1)_820
+    21301642: Earth Spirit SS Ripple (1)_821
+    21301644: Earth Spirit SS Ripple (1)_822
+    21301646: Earth Spirit SS Ripple (1)_823
+    21301648: Earth Spirit SS Ripple (1)_824
+    21301650: Earth Spirit SS Ripple (1)_825
+    21301652: Earth Spirit SS Ripple (1)_826
+    21301654: Earth Spirit SS Ripple (1)_827
+    21301656: Earth Spirit SS Ripple (1)_828
+    21301658: Earth Spirit SS Ripple (1)_829
+    21301660: Earth Spirit SS Ripple (1)_830
+    21301662: Earth Spirit SS Ripple (1)_831
+    21301664: Earth Spirit SS Ripple (1)_832
+    21301666: Earth Spirit SS Ripple (1)_833
+    21301668: Earth Spirit SS Ripple (1)_834
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Earth Spirit SS Ripple (1)_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 10
+        width: 392
+        height: 573
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_1
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 19
+        width: 440
+        height: 583
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 67
+        width: 478
+        height: 526
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 143
+        width: 526
+        height: 421
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 172
+        width: 573
+        height: 392
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_5
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 115
+        width: 583
+        height: 459
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_6
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 76
+        width: 526
+        height: 498
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_7
+      rect:
+        serializedVersion: 2
+        x: 4427
+        y: 48
+        width: 421
+        height: 535
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_8
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 29
+        width: 392
+        height: 573
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_9
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 10
+        width: 440
+        height: 583
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_10
+      rect:
+        serializedVersion: 2
+        x: 6206
+        y: 19
+        width: 478
+        height: 526
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_11
+      rect:
+        serializedVersion: 2
+        x: 6789
+        y: 48
+        width: 526
+        height: 421
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_12
+      rect:
+        serializedVersion: 2
+        x: 7373
+        y: 48
+        width: 573
+        height: 392
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_13
+      rect:
+        serializedVersion: 2
+        x: 7966
+        y: 48
+        width: 583
+        height: 440
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_14
+      rect:
+        serializedVersion: 2
+        x: 8587
+        y: 48
+        width: 526
+        height: 478
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth Spirit SS Ripple (1)_15
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 29
+        width: 421
+        height: 526
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

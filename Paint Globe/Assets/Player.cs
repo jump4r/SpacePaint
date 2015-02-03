@@ -77,5 +77,7 @@ public class Player : MonoBehaviour {
 			transform.position = hit.point + transform.up * .5f * renderer.bounds.size.y;
 			planet.PaintAtUV(hit.textureCoord, color);
 		}
+
+		transform.LookAt(Camera.main.transform.position, -Vector3.up); 
 	}
 }
