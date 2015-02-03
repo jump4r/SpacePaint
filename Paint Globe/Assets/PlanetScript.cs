@@ -4,6 +4,8 @@ using System.Collections.Generic;
 
 public class PlanetScript : MonoBehaviour {
 
+	Vector3[] baseVerts;
+
 	// Use this for initialization
 	void Start () {
 		GenerateSphere();
@@ -22,6 +24,12 @@ public class PlanetScript : MonoBehaviour {
 		}
 
 		tex.SetPixels(colors);
+
+		Mesh m = GetComponent<MeshFilter>().mesh;
+
+		Vector3[] verts = m.vertices;
+
+		baseVerts = verts;
 	}
 
 	void PaintAtPoint(int x, int y, Color color)
@@ -84,13 +92,14 @@ public class PlanetScript : MonoBehaviour {
 
 				if(!seaVerts.Contains(i))
 				{
-					verts[i] += normals[i] * .02f;
+					verts[i] = baseVerts[i] + normals[i] * .07f * Random.value;
 					seaVerts.Add(i);
 					//seaVerts.Remove(i);
 				}
 			}
 			if(ColorDif(color, seaColor) < .1f)
 			{
+				verts[i] = baseVerts[i];
 				if(!seaVerts.Contains(i))
 				{
 					//seaVerts.Add(i);

@@ -74,7 +74,7 @@ public class Player : MonoBehaviour {
 
 		if(Physics.Raycast(new Ray(this.transform.position - gravityDir * 1f, planet.transform.position - this.transform.position), out hit))
 		{
-			transform.position = hit.point + transform.up * .5f * renderer.bounds.size.y;
+			transform.position = hit.point + transform.up * 1f * renderer.bounds.size.y;
 			planet.PaintAtUV(hit.textureCoord, color);
 		}
 
