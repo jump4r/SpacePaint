@@ -14,6 +14,8 @@ public class Player : MonoBehaviour {
 	public float maxSpeed = .8f;
 	public float friction = .3f;
 
+	private int numPixelsPainted = 0;
+
 	Vector3 velocity;
 
 	// Use this for initialization
