@@ -14,6 +14,8 @@ public class Player : MonoBehaviour {
 	public float maxSpeed = .8f;
 	public float friction = .3f;
 
+	private int numPixelsPainted = 0;
+
 	Vector3 velocity;
 
 	// Use this for initialization
@@ -61,7 +63,21 @@ public class Player : MonoBehaviour {
 		if(Input.GetKey(keyDown))
 		{
 			dir -= Camera.main.transform.up;
+
 			//transform.position -= Camera.main.transform.up * speed;
+		}
+
+		if (Input.GetKey (keyUp) || Input.GetKey (keyDown) || Input.GetKey (keyRight) || Input.GetKey (keyLeft))
+		{
+			if (!audio.isPlaying) 
+			{
+				audio.Play ();
+			}
+		}
+
+		if (Input.GetKeyUp (keyUp) || Input.GetKeyUp (keyDown) || Input.GetKeyUp (keyRight) || Input.GetKeyUp (keyLeft))
+		{
+			audio.Pause ();
 		}
 
 		if(dir.magnitude == 0)

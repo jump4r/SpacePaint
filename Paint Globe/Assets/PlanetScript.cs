@@ -42,7 +42,7 @@ public class PlanetScript : MonoBehaviour {
 		tex.Apply();
 	}
 
-	int radius = 8;
+	int radius = 5;
 
 	Texture2D tex;
 	bool edited = false;
@@ -118,8 +118,13 @@ public class PlanetScript : MonoBehaviour {
 			for(int j = -radius; j < radius; j++)
 			{
 				if(Mathf.Sqrt(i*i+j*j) < radius)
-				{
-					tex.SetPixel((int)(uv.x * tex.width) + i, (int)(uv.y * tex.height) + j, color);
+				{	
+					/* Weird Lag issues using this test. Try to keep track of how many pixels each player painted. Will try more stuff tomorrow. */
+					/*if (tex.GetPixel((int)(uv.x * tex.width) + i, (int)(uv.y * tex.height) + j) == Color.white) {
+						Debug.Log("Cover white with other color");
+					}*/
+
+					tex.SetPixel((int)(uv.x * tex.width) + i, (int)(uv.y * tex.height) + j, color);	
 				}
 			}
 		}
@@ -315,5 +320,23 @@ public class PlanetScript : MonoBehaviour {
 		mesh.Optimize();
 
 		GetComponent<MeshCollider>().sharedMesh = mesh;
+	}
+
+	public void CalculateWinner() {
+		GameObject earthPlayer = GameObject.Find ("Earth");
+		GameObject waterPlayer = GameObject.Find ("Water");
+		Texture2D tex = (Texture2D) renderer.material.mainTexture;
+
+		int textWidth = tex.width;
+		int textHeight = tex.height;
+
+		Debug.Log ("Texture width: " + textWidth + ", Texture height: " + textHeight);
+
+		// This will crash Unity, even doing once, it won't be this simple :c
+		/* for (int i = 0; i < textWidth; i++) {
+			for (int j = 0; j < textHeight; j++) {
+				Debug.Log ("Calculating winner");
+			}
+		}*/
 	}
 }
