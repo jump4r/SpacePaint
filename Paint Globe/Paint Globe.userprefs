@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Player.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlanetScript.cs">
     <Files>
-      <File FileName="Assets\PlanetScript.cs" Line="89" Column="23" />
-      <File FileName="Assets\Player.cs" Line="85" Column="40" />
+      <File FileName="Assets\PlanetScript.cs" Line="153" Column="18" />
+      <File FileName="Assets\Player.cs" Line="85" Column="44" />
+      <File FileName="Assets\BlendShader.shader" Line="27" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

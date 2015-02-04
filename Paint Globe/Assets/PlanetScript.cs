@@ -196,8 +196,8 @@ public class PlanetScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		OffsetMeshByTexture();
-		UpdateSeaVerts();
+		//OffsetMeshByTexture();
+		//UpdateSeaVerts();
 	}
 
 	float offset = 0;
