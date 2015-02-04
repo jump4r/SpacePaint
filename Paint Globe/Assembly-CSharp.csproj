@@ -50,6 +50,7 @@
      <Compile Include="Assets\Orbit.cs" />
      <Compile Include="Assets\PlanetScript.cs" />
      <Compile Include="Assets\Player.cs" />
+     <None Include="Assets\BlendShader.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -26,6 +26,8 @@ public class Player : MonoBehaviour {
 	public KeyCode keyLeft; 
 	public KeyCode keyDown;
 
+	public bool isSea = false;
+
 	// Update is called once per frame
 	void Update () {
 

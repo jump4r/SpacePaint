@@ -1,8 +1,7 @@
 fileFormatVersion: 2
-guid: 525ba9aeada19224cacd310daceaba81
+guid: 6ae7185b0055ab944b18026b5898b318
 TextureImporter:
-  fileIDToRecycleName:
-    8900000: generatedCubemap
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -40,7 +39,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 0
-  textureType: 5
+  textureType: -1
   buildTargetSettings: []
   spriteSheet:
     sprites: []

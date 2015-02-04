@@ -9,10 +9,12 @@ public class PlanetScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		GenerateSphere();
+
 		renderer.material.mainTexture = 
 		new Texture2D(400,
 		              400,
 		              TextureFormat.RGB24, false);
+
 
 		tex = ((Texture2D)renderer.material.mainTexture);
 
@@ -20,10 +22,11 @@ public class PlanetScript : MonoBehaviour {
 		Color[] colors = new Color[400 * 400];
 		for(int i = 0; i < colors.Length; i++)
 		{
-			colors[i] = Color.white;
+			colors[i] = Color.red;
 		}
 
 		tex.SetPixels(colors);
+
 
 		Mesh m = GetComponent<MeshFilter>().mesh;
 
@@ -37,7 +40,6 @@ public class PlanetScript : MonoBehaviour {
 		Texture2D tex = ((Texture2D)renderer.material.mainTexture);
 		tex.SetPixel(x, y, color);
 		tex.Apply();
-
 	}
 
 	int radius = 8;
@@ -45,13 +47,71 @@ public class PlanetScript : MonoBehaviour {
 	Texture2D tex;
 	bool edited = false;
 
+	public void PaintAtPoint(Vector3 point, bool sea)
+	{
+		point = transform.InverseTransformPoint(point);
+
+		Mesh m = GetComponent<MeshFilter>().mesh;
+		
+		Vector2[] uvs = m.uv;
+		Vector3[] verts = m.vertices;
+
+	//	int xCenter = (int)(uv.x * tex.width);
+	//	int yCenter = (int)(uv.y * tex.height);
+
+		int closestVert = 0;
+		float minDis = float.MaxValue;
+
+		for(int i = 0; i < verts.Length; i++)
+		{
+			float dis = (verts[i] - point).sqrMagnitude;
+
+			if(dis < minDis)
+			{
+				closestVert = i;
+				minDis = dis;
+			}
+		}
+
+		Vector2 uvHere = uvs[closestVert];
+
+		if(sea)
+		{
+			if(uvHere.x < .5f)
+			{
+				uvs[closestVert] += new Vector2(.5f, 0f);
+			}
+		}
+		else
+		{
+			if(uvHere.x > .5f)
+			{
+				uvs[closestVert] -= new Vector2(.5f, 0f);
+			}
+		}
+		
+			/*
+		for(int i = -radius; i < radius; i++)
+		{
+			for(int j = -radius; j < radius; j++)
+			{
+				if(Mathf.Sqrt(i*i+j*j) < radius)
+				{
+					//tex.SetPixel((int)(uv.x * tex.width) + i, (int)(uv.y * tex.height) + j, color);
+				}
+			}
+		}*/
+		
+		m.uv = uvs;
+		edited = true;
+		//tex.SetPixel((int)(uv.x * tex.width), (int)(uv.y * tex.height), Color.red);
+	}
+
 	public void PaintAtUV(Vector2 uv , Color color)
 	{
-
-
-
 		int xCenter = (int)(uv.x * tex.width);
 		int yCenter = (int)(uv.y * tex.height);
+
 
 		for(int i = -radius; i < radius; i++)
 		{
@@ -87,22 +147,23 @@ public class PlanetScript : MonoBehaviour {
 		{
 			Color color = tex.GetPixelBilinear(uvs[i].x, uvs[i].y);
 
-			if(ColorDif(color, earthColor) < .1f)
+			if(color.r != 1f)
 			{
 
-				if(!seaVerts.Contains(i))
+				if(verts[i] == baseVerts[i])
 				{
 					verts[i] = baseVerts[i] + normals[i] * .07f * Random.value;
-					seaVerts.Add(i);
-					//seaVerts.Remove(i);
+					//seaVerts.Add(i);
 				}
+
+				seaVerts.Remove(i);
 			}
-			if(ColorDif(color, seaColor) < .1f)
+			if(color.r > .5f)
 			{
 				verts[i] = baseVerts[i];
 				if(!seaVerts.Contains(i))
 				{
-					//seaVerts.Add(i);
+					seaVerts.Add(i);
 				}
 			}
 		//	verts[i] += normals[i] * color.g * .002f;
@@ -129,13 +190,9 @@ public class PlanetScript : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetKeyDown(KeyCode.P))
-		{
-			OffsetMeshByTexture();
-		}
 
 		OffsetMeshByTexture();
-		//UpdateSeaVerts();
+		UpdateSeaVerts();
 	}
 
 	float offset = 0;
@@ -164,9 +221,9 @@ public class PlanetScript : MonoBehaviour {
 		
 		float radius = 1f;
 		// Longitude |||
-		int nbLong = 80;
+		int nbLong = 40;
 		// Latitude ---
-		int nbLat = 60;
+		int nbLat = 30;
 		
 		#region Vertices
 		Vector3[] vertices = new Vector3[(nbLong+1) * nbLat + 2];
