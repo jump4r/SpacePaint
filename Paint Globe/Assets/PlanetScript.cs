@@ -22,7 +22,7 @@ public class PlanetScript : MonoBehaviour {
 		Color[] colors = new Color[400 * 400];
 		for(int i = 0; i < colors.Length; i++)
 		{
-			colors[i] = Color.red;
+			colors[i] = Color.blue;
 		}
 
 		tex.SetPixels(colors);
@@ -152,24 +152,25 @@ public class PlanetScript : MonoBehaviour {
 		{
 			Color color = tex.GetPixelBilinear(uvs[i].x, uvs[i].y);
 
-			if(color.r != 1f)
+			if(color.r == 1f)
 			{
 
 				if(verts[i] == baseVerts[i])
 				{
-					verts[i] = baseVerts[i] + normals[i] * .07f * Random.value;
+					verts[i] = baseVerts[i] + normals[i] * .09f * Random.value;
 					//seaVerts.Add(i);
 				}
 
 				seaVerts.Remove(i);
 			}
-			if(color.r > .5f)
+			if(color.g == 1f)
 			{
 				verts[i] = baseVerts[i];
+				/*
 				if(!seaVerts.Contains(i))
 				{
 					seaVerts.Add(i);
-				}
+				}*/
 			}
 		//	verts[i] += normals[i] * color.g * .002f;
 		}
@@ -196,7 +197,7 @@ public class PlanetScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		//OffsetMeshByTexture();
+		OffsetMeshByTexture();
 		//UpdateSeaVerts();
 	}
 
@@ -217,6 +218,26 @@ public class PlanetScript : MonoBehaviour {
 		mesh.vertices = verts;
 	}
 
+
+	//1 for r, 2 for g. Who is r? Whos is g? Who knows, but there's only two options. Trial and error!
+	public int FindWinner()
+	{
+		float rTotal = 0;
+		float gTotal = 0;
+
+		for(int i = 0; i < tex.width; i++)
+		{
+			for(int j = 0; j < tex.height; j++)
+			{
+				Color color = tex.GetPixel(i, j);
+				rTotal += color.r;
+				gTotal += color.g;
+			}
+		}
+
+		return rTotal > gTotal ? 1 : 0; //Did I write a lambda right?
+		
+	}
 
 	void GenerateSphere()
 	{
